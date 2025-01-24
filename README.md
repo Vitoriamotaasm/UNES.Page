@@ -35,7 +35,15 @@ Para visualizar ou editar o projeto, você precisará de:
 
 O projeto possui a seguinte estrutura de diretórios:
 
-UNES.Page/ ├── css/ │ └── estilo.css ├── img/ │ ├── logo.png │ └── campus.jpg ├── index.html ├── quem-somos.html └── contato.html
+UNES.Page/ 
+├── css/ 
+│└── estilo.css
+├── img/ 
+│├── logo.png 
+│└── campus.jpg 
+├── index.html 
+├── quem-somos.html 
+└── contato.html
 
 
 - **`css/estilo.css`**: Contém os estilos utilizados nas páginas.
